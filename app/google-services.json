@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "579310884507",
+    "firebase_url": "https://myexperiment-27514.firebaseio.com",
+    "project_id": "myexperiment-27514",
+    "storage_bucket": "myexperiment-27514.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579310884507:android:5035a48d3b92edda",
+        "android_client_info": {
+          "package_name": "com.greatzyo.greatfirebased"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579310884507-83lbdogb5sq8tarftdtkrthouha2vhi7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
